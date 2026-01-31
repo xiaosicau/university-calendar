@@ -1,0 +1,9 @@
+# 设置行结束符处理
+*.py text=auto eol=lf
+*.json text=auto eol=lf
+*.md text=auto eol=lf
+*.txt text=auto eol=lf
+
+# 对于二进制文件不进行转换
+*.exe binary
+*.spec binary
