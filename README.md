@@ -69,7 +69,11 @@ data/                 # 数据目录（自动创建）
 
 本项目提供两种使用方式：
 
-1. **预编译版本**：从 [Releases](https://github.com/your-username/your-repo/releases) 页面下载预编译的可执行文件，直接运行即可，无需安装Python环境
+1. **预编译版本**：从 [Releases](https://github.com/xiaosicau/university-calendar/releases/tag/2025-2026) 页面下载预编译的可执行文件，直接运行即可，无需安装Python环境
 2. **源代码版本**：下载源代码并按照上述方式运行
 
 预编译版本适用于大多数Windows用户，而源代码版本便于开发者进行自定义修改和贡献。
+
+## 联系方式
+
+如有问题请联系开发者：xiaosicau@qq.com
